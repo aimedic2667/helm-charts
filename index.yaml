@@ -3,7 +3,17 @@ entries:
   heartmedi-deploy:
   - apiVersion: v2
     appVersion: v0.10.2
-    created: "2025-01-24T01:38:03.847574379Z"
+    created: "2025-01-31T06:08:32.032382974Z"
+    description: A Helm chart for Kubernetes
+    digest: 3c0ef7f7a62957339e6bde6d2477c2a9c47a8bea7566a6b8cedebdec6c107d42
+    name: heartmedi-deploy
+    type: application
+    urls:
+    - https://aimedic2667.github.io/helm-charts/heartmedi-deploy-0.0.2.tgz
+    version: 0.0.2
+  - apiVersion: v2
+    appVersion: v0.10.2
+    created: "2025-01-31T06:08:32.031958391Z"
     description: A Helm chart for Kubernetes
     digest: 1dcd3d3ec10b446f2bd705abf17c7ab17e55c276d643ddc648038e330ce79b2b
     name: heartmedi-deploy
@@ -11,4 +21,4 @@ entries:
     urls:
     - https://aimedic2667.github.io/helm-charts/heartmedi-deploy-0.0.1.tgz
     version: 0.0.1
-generated: "2025-01-24T01:38:03.846752308Z"
+generated: "2025-01-31T06:08:32.031433647Z"
