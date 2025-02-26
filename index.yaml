@@ -3,9 +3,19 @@ entries:
   heartmedi-deploy:
   - apiVersion: v2
     appVersion: v0.10.2
-    created: "2025-02-14T01:07:09.831473102Z"
+    created: "2025-02-26T02:15:13.31313877Z"
     description: A Helm chart for Kubernetes
-    digest: d62a358275e1ce440ea0b08273bd8cf8e07066b6287912f3726df4cd6a42c57a
+    digest: eee2fa64e46e4a689883fb497ed4b0e689f24ef7543b2a04d5374570cfa80e3d
+    name: heartmedi-deploy
+    type: application
+    urls:
+    - https://aimedic2667.github.io/helm-charts/heartmedi-deploy-0.0.5.tgz
+    version: 0.0.5
+  - apiVersion: v2
+    appVersion: v0.10.2
+    created: "2025-02-26T02:15:13.312737676Z"
+    description: A Helm chart for Kubernetes
+    digest: 891519746bfffa87ffa8f8cb7bde0e5eaf4666e725fae8c3bcdcc1aa1d08c387
     name: heartmedi-deploy
     type: application
     urls:
@@ -13,7 +23,7 @@ entries:
     version: 0.0.4
   - apiVersion: v2
     appVersion: v0.10.2
-    created: "2025-02-14T01:07:09.831055036Z"
+    created: "2025-02-26T02:15:13.312313856Z"
     description: A Helm chart for Kubernetes
     digest: 872b6bea466381ef5b96ebc61429b8560dccde0f986934cf2c29682f7b7c027f
     name: heartmedi-deploy
@@ -23,7 +33,7 @@ entries:
     version: 0.0.3
   - apiVersion: v2
     appVersion: v0.10.2
-    created: "2025-02-14T01:07:09.830648678Z"
+    created: "2025-02-26T02:15:13.311896226Z"
     description: A Helm chart for Kubernetes
     digest: ec7106d5718fe6f58bd4412316bdf503a661fe4e6781efcc151143b71e115ad4
     name: heartmedi-deploy
@@ -33,7 +43,7 @@ entries:
     version: 0.0.2
   - apiVersion: v2
     appVersion: v0.10.2
-    created: "2025-02-14T01:07:09.830251551Z"
+    created: "2025-02-26T02:15:13.31132989Z"
     description: A Helm chart for Kubernetes
     digest: 1dcd3d3ec10b446f2bd705abf17c7ab17e55c276d643ddc648038e330ce79b2b
     name: heartmedi-deploy
@@ -41,4 +51,4 @@ entries:
     urls:
     - https://aimedic2667.github.io/helm-charts/heartmedi-deploy-0.0.1.tgz
     version: 0.0.1
-generated: "2025-02-14T01:07:09.829764403Z"
+generated: "2025-02-26T02:15:13.310685135Z"
